@@ -88,7 +88,7 @@ public class MomentListActivity extends AppCompatActivity {
     }
 
     protected void exportSelectedSns() {
-        Task.saveToJSONFile(Share.snsData.snsList, Config.EXT_DIR + "/exported_sns.json", true);
+        Task.saveToJSONFileAndUpload(Share.snsData.snsList, Config.EXT_DIR + "/exported_sns.json", true);
         new AlertDialog.Builder(this)
                 .setMessage(String.format(getString(R.string.export_success), Config.EXT_DIR + "/exported_sns.json"))
                 .setPositiveButton(R.string.done, new DialogInterface.OnClickListener() {
