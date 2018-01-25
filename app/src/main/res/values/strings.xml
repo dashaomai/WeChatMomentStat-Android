@@ -7,7 +7,7 @@
     <string name="wechat_not_found">找不到微信</string>
     <string name="supported_wechat_versions">支持的微信版本</string>
     <string name="launch">运行</string>
-    <string name="description_0">WeChatMomentStat可分析和导出你的朋友圈数据。</string>
+    <string name="description_0">微信数据助手可分析和导出你的朋友圈数据。</string>
     <string name="description_1">请确认已允许本APP获得root权限。</string>
     <string name="description_2">点击“运行”开始分析你的微信朋友圈。这将需要几分钟时间。</string>
     <string name="exporting_sns">正在导出朋友圈数据...</string>
@@ -41,19 +41,10 @@
     <string name="export_success">已将所选朋友圈导出到 %s</string>
     <string name="description_html">
         &lt;p&gt;
-        作者：
+        开发者：
         &lt;/p&gt;
         &lt;p&gt;
-        &lt;a href="https://github.com/Chion82"&gt;Chion82(Chion Tang)&lt;/a&gt;
-        &lt;/p&gt;
-        &lt;p&gt;
-        &lt;a href="https://blog.chionlab.moe"&gt;Chion Tang的归宅开发部活动记录&lt;/a&gt;
-        &lt;/p&gt;
-        &lt;p&gt;
-        BUG汇报:
-        &lt;/p&gt;
-        &lt;p&gt;
-        &lt;a href="https://github.com/Chion82/WeChatMomentStat-Android/issues"&gt;Issues&lt;/a&gt;
+        &lt;a href="http://www.hebangdata.com/"&gt;和邦数据有限公司-项目部&lt;/a&gt;
         &lt;/p&gt;
     </string>
 </resources>

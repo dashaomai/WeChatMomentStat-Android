@@ -41,19 +41,10 @@
     <string name="export_success">All selected moments are exported to %s</string>
     <string name="description_html">
         &lt;p&gt;
-        Author：
+        Develop：
         &lt;/p&gt;
         &lt;p&gt;
-        &lt;a href="https://github.com/Chion82"&gt;Chion82(Chion Tang)&lt;/a&gt;
-        &lt;/p&gt;
-        &lt;p&gt;
-        &lt;a href="https://blog.chionlab.moe"&gt;Chion Tang的归宅开发部活动记录&lt;/a&gt;
-        &lt;/p&gt;
-        &lt;p&gt;
-        BUG Report:
-        &lt;/p&gt;
-        &lt;p&gt;
-        &lt;a href="https://github.com/Chion82/WeChatMomentStat-Android/issues"&gt;Issues&lt;/a&gt;
+        &lt;a href="http://www.hebangdata.com/"&gt;HeBang Data - Project Department&lt;/a&gt;
         &lt;/p&gt;
     </string>
 </resources>
